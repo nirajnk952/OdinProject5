@@ -15,7 +15,7 @@ This project is a simple recipe website. The website showcases three delicious r
 
 ## Description
 
-Odin Recipes is a static website featuring three recipes with their respective ingredients and preparation steps. This project is an introduction to basic HTML and CSS.
+It is a static website featuring three recipes with their respective ingredients and preparation steps. This project is an introduction to basic HTML and CSS.
 
 ## Features
 
