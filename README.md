@@ -4,7 +4,7 @@
 <img width="1376" alt="Screenshot 2024-08-12 at 9 57 21 AM" src="https://github.com/user-attachments/assets/c780fc8e-9731-484f-80e6-89c9e0bf5616">
 
 
-This project is a simple recipe website created as part of the Odin Project curriculum. The website showcases three delicious recipes: Lasagna, Pizza, and Tacos.
+This project is a simple recipe website. The website showcases three delicious recipes: Lasagna, Pizza, and Tacos.
 
 ## Table of Contents
 
